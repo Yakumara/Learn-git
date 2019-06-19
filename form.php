@@ -4,10 +4,10 @@
     $subject = 'Заявка с лендинга "Часы"';
 
     // Адрес отправителя
-    $sender = 'opt@worldwideshop.ru';
+    $sender = 'help@fitness-bracelets.site';
 
     // Адрес получателя
-    $to = 'Test@mail.com';
+    $to = 'spam.pavel.mametev@gmail.com';
 
     // Получаемые поля
     $fields = array(
