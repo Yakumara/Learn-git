@@ -1,13 +1,13 @@
 <?php
 
     // Тема сообщения
-    $subject = 'Заявка с лендинга "Наушники Airpods"';
+    $subject = 'Заявка с лендинга "Часы"';
 
     // Адрес отправителя
     $sender = 'opt@worldwideshop.ru';
 
     // Адрес получателя
-    $to = 'opt@worldwideshop.ru';
+    $to = 'Test@mail.com';
 
     // Получаемые поля
     $fields = array(
